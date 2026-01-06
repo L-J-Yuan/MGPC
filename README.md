@@ -43,7 +43,7 @@ We have tested on Ubuntu 20.04/22.04 with NVIDIA GeForce RTX 4090 with Python 3.
 
 - **Download the model weight**
 
-​	We will provide our pre-trained weights in a few days.
+  We will provide our pre-trained weights in a few days.
 
 - **Modify the configuration file**
 

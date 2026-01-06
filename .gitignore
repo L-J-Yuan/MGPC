@@ -54,12 +54,6 @@ results/
 result/
 exp/
 exps/
-experiments/*/outputs/
-experiments/*/logs/
-experiments/*/checkpoints/
-checkpoints/
-ckpt/
-ckpts/
 
 
 *.pt
@@ -84,10 +78,4 @@ Thumbs.db
 coverage.xml
 .coverage
 htmlcov/
-
-
-data/
-datasets/
-Dataset/
-Data/
 
