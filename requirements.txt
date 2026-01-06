@@ -1,0 +1,7 @@
+numpy==1.26
+transformers==4.54.1
+open3d
+tensorboard
+timm
+ninja
+git+https://github.com/openai/CLIP.git

@@ -1,0 +1,1 @@
+left,down,right,up: [270, 50, 400, 260]
