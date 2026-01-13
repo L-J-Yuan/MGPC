@@ -43,7 +43,7 @@ We have tested on Ubuntu 20.04/22.04 with NVIDIA GeForce RTX 4090 with Python 3.
 
 - **Download the model weight**
 
-  We will provide our pre-trained weights in a few days.
+  Our trained weights for 8192 and 2048 points are in [here](https://drive.google.com/drive/folders/18gf1-w6TE4S1EhxWX1SDkPUxWCi5b_wR?usp=drive_link) (containing pretrained weights of dinov2 and clip).
 
 - **Modify the configuration file**
 
@@ -70,4 +70,13 @@ python demo.py
 Our code is partially built upon [PoinTr](https://github.com/yuxumin/PoinTr), [SeedFormer](https://github.com/hrzhou2/seedformer), [TripoSR](https://github.com/VAST-AI-Research/TripoSR), and [PUCRN](https://github.com/hikvision-research/3DVision). We thank them for their nicely open sourced code and their great contributions to the community.
 
 ## Citation
+
+```
+@article{liu2026mgpc,
+  title={MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding},
+  author={Liu, Jiangyuan and Ma, Hongxuan and Zhao, Yuhao and Liu, Zhe and Wang, Jian and Zou, Wei},
+  journal={arXiv preprint arXiv:2601.03660},
+  year={2026}
+}
+```
 
