@@ -1,6 +1,6 @@
 # **MGPC: <u>M</u>ultimodal Network for <u>G</u>eneralizable <u>P</u>oint Cloud <u>C</u>ompletion With Modality Dropout and Progressive Decoding**
 
-This is the official repository of the paper "Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion".
+This is the official repository of the paper "MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding".
 
 ## Note
 
